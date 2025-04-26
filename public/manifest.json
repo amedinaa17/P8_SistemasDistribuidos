@@ -1,0 +1,16 @@
+{
+  "name": "Catálogo de Productos",
+  "short_name": "Productos",
+  "description": "Gestión de productos mediante un servicio web RESTful.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#212529",
+  "theme_color": "#36C9C6",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
